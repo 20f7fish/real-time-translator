@@ -14,7 +14,7 @@
 
 1. 克隆仓库到本地
 ```
-git clone https://github.com/your-username/real-time-translator.git
+git clone https://github.com/20f7fish/real-time-translator.git
 ```
 
 2. 配置API密钥
